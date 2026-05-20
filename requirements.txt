@@ -1,7 +1,0 @@
-tensorflow>=2.10
-scikit-learn>=1.0
-pandas>=1.4
-numpy>=1.21
-matplotlib>=3.5
-seaborn>=0.11
-imbalanced-learn>=0.9
